@@ -2,7 +2,7 @@
 
 - 😜 You Can call me **Om**!
 - 🌱 I’m currently learning **Javascript**
-- 📫 How to reach me: [Discord](https://discord.gg/Bv5XY6bxvJ)
+- 📫 How to reach me: [Discord]([https://discord.gg/Bv5XY6bxvJ](https://discord.com/users/1022807635818455040))
 - ⚡ Fun fact: **I code for fun**
 
 <br>
