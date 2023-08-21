@@ -7,4 +7,4 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ombodkhe1&count_private=true&show_icons=true&theme=dracula&locale=en" alt="ombbodkhe" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ombbodkhe&count_private=true&show_icons=true&theme=dracula&locale=en" alt="ombbodkhe" /></p>
